@@ -8,5 +8,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 - ubuntu 14.04
 - ROS-indigo
 ## Structure
+- talker in src is the main part of the task.
+
 
  
